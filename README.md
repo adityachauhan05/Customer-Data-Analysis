@@ -23,8 +23,8 @@ The goal is to highlight which customers contribute the most revenue, helping th
 - `LIMIT` (to fetch the top customers only)
 
 ---
+## 📊 Top 5 Customers by Total Sales
 <img width="1600" height="1000" alt="q1_top_customers" src="https://github.com/user-attachments/assets/f09ae8fb-f400-4b6b-8dff-3efc602e8e69" />
-
 ---
 
 ## 📈 Business Value
@@ -64,6 +64,9 @@ The goal is to measure customer loyalty by identifying how many customers purcha
 - **GROUP BY** – to aggregate orders at the customer level.  
 - **ROUND()** – for clean percentage formatting.  
 
+---
+## 📊 Customer Repeat Purchase Distribution
+<img width="600" height="600" alt="q2_repeat_purchase_fixed" src="https://github.com/user-attachments/assets/58d422d3-7007-4192-903a-a22a978eede5" />
 ---
 
 ## 🚀 Business Value
@@ -112,8 +115,8 @@ The goal is to discover which categories and brands drive the highest sales, hel
 - **LIMIT** – to extract the **Top 10 most purchased products**.  
 
 ---
+## 📊 Top 5 Most Purchased Categories/Brands
 <img width="1600" height="1000" alt="q3_top_products" src="https://github.com/user-attachments/assets/1a065c08-3da3-449a-92f8-7646ad0b0a7e" />
-
 ---
 
 ## 🚀 Business Value
@@ -164,8 +167,8 @@ The goal is to measure the average value each customer brings, helping assess ov
 - **ORDER BY DESC + LIMIT** – to rank and display top 100 customers.  
 
 ---
+## 📊 Top 5 Customers by ARPC
 <img width="1600" height="1000" alt="q4_arpc" src="https://github.com/user-attachments/assets/f443610f-00bb-4008-a6e1-ae82343a405b" />
-
 ---
 
 ## 🚀 Business Value
@@ -214,8 +217,8 @@ The goal is to identify **high-margin vs low-margin products**, helping business
 - **ORDER BY DESC + LIMIT** – rank and display the **Top 50 products**.  
 
 ---
+## 📊 Top 5 Products by Profit Margin %
 <img width="1600" height="1000" alt="q5_margin_products" src="https://github.com/user-attachments/assets/f15e3765-7486-44a8-8485-29cc7fac0821" />
-
 ---
 
 ## 🚀 Business Value
