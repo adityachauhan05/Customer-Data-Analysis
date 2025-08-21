@@ -23,6 +23,9 @@ The goal is to highlight which customers contribute the most revenue, helping th
 - `LIMIT` (to fetch the top customers only)
 
 ---
+<img width="1600" height="1000" alt="q1_top_customers" src="https://github.com/user-attachments/assets/f09ae8fb-f400-4b6b-8dff-3efc602e8e69" />
+
+---
 
 ## 📈 Business Value
 This query helps businesses:
@@ -109,6 +112,9 @@ The goal is to discover which categories and brands drive the highest sales, hel
 - **LIMIT** – to extract the **Top 10 most purchased products**.  
 
 ---
+<img width="1600" height="1000" alt="q3_top_products" src="https://github.com/user-attachments/assets/1a065c08-3da3-449a-92f8-7646ad0b0a7e" />
+
+---
 
 ## 🚀 Business Value
 This analysis helps businesses:  
@@ -158,6 +164,9 @@ The goal is to measure the average value each customer brings, helping assess ov
 - **ORDER BY DESC + LIMIT** – to rank and display top 100 customers.  
 
 ---
+<img width="1600" height="1000" alt="q4_arpc" src="https://github.com/user-attachments/assets/f443610f-00bb-4008-a6e1-ae82343a405b" />
+
+---
 
 ## 🚀 Business Value
 This analysis helps businesses:  
@@ -203,6 +212,9 @@ The goal is to identify **high-margin vs low-margin products**, helping business
 - **ROUND()** – to display margin percent clearly.  
 - **GROUP BY** – ensure calculations are grouped per product.  
 - **ORDER BY DESC + LIMIT** – rank and display the **Top 50 products**.  
+
+---
+<img width="1600" height="1000" alt="q5_margin_products" src="https://github.com/user-attachments/assets/f15e3765-7486-44a8-8485-29cc7fac0821" />
 
 ---
 
