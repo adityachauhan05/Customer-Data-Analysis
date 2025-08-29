@@ -23,9 +23,6 @@ The goal is to highlight which customers contribute the most revenue, helping th
 - `LIMIT` (to fetch the top customers only)
 
 ---
-## 📊 Top 5 Customers by Total Sales
-<img width="1600" height="1000" alt="q1_top_customers" src="https://github.com/user-attachments/assets/f09ae8fb-f400-4b6b-8dff-3efc602e8e69" />
----
 
 ## 📈 Business Value
 This query helps businesses:
@@ -64,9 +61,6 @@ The goal is to measure customer loyalty by identifying how many customers purcha
 - **GROUP BY** – to aggregate orders at the customer level.  
 - **ROUND()** – for clean percentage formatting.  
 
----
-## 📊 Customer Repeat Purchase Distribution
-<img width="600" height="600" alt="q2_repeat_purchase_fixed" src="https://github.com/user-attachments/assets/58d422d3-7007-4192-903a-a22a978eede5" />
 ---
 
 ## 🚀 Business Value
@@ -114,9 +108,6 @@ The goal is to discover which categories and brands drive the highest sales, hel
 - **ORDER BY DESC** – to rank products by total orders.  
 - **LIMIT** – to extract the **Top 10 most purchased products**.  
 
----
-## 📊 Top 5 Most Purchased Categories/Brands
-<img width="1600" height="1000" alt="q3_top_products" src="https://github.com/user-attachments/assets/1a065c08-3da3-449a-92f8-7646ad0b0a7e" />
 ---
 
 ## 🚀 Business Value
@@ -167,9 +158,6 @@ The goal is to measure the average value each customer brings, helping assess ov
 - **ORDER BY DESC + LIMIT** – to rank and display top 100 customers.  
 
 ---
-## 📊 Top 5 Customers by ARPC
-<img width="1600" height="1000" alt="q4_arpc" src="https://github.com/user-attachments/assets/f443610f-00bb-4008-a6e1-ae82343a405b" />
----
 
 ## 🚀 Business Value
 This analysis helps businesses:  
@@ -217,9 +205,6 @@ The goal is to identify **high-margin vs low-margin products**, helping business
 - **ORDER BY DESC + LIMIT** – rank and display the **Top 50 products**.  
 
 ---
-## 📊 Top 5 Products by Profit Margin %
-<img width="1600" height="1000" alt="q5_margin_products" src="https://github.com/user-attachments/assets/f15e3765-7486-44a8-8485-29cc7fac0821" />
----
 
 ## 🚀 Business Value
 This analysis helps businesses:  
@@ -228,4 +213,74 @@ This analysis helps businesses:
 - Improve **inventory planning and supplier negotiations**.  
 - Balance **absolute profit margin** and **margin efficiency** for sustainable growth.  
 
+# 📊 Customer Behavior Analysis - Power BI Dashboard
 
+## 📌 Project Overview
+This project focuses on analyzing **customer behavior** using transactional data.  
+The Power BI dashboard highlights key insights such as active customers, return customers, purchase rates, most valuable customers, and top-performing brands.  
+
+The goal of this project is to provide **data-driven insights** for understanding customer retention, spending habits, and brand profitability.  
+
+---
+
+## 🔑 Key Insights
+- **80K Active Customers** with **30K Returning Customers**  
+- **Repeat Purchase Rate:** 37.36%  
+- **Top 20 Most Valuable Customers** identified by spending  
+- **Top Customers (ARPC - Average Revenue per Customer)**  
+- **Top Selling Brands** by total orders  
+- **Top Profit Margin Brands**  
+
+---
+
+# 📊 Customer Behavior Analysis - Power BI Dashboard
+
+## 📌 Project Overview
+This project focuses on analyzing **customer behavior** using transactional data.  
+The Power BI dashboard highlights key insights such as active customers, return customers, purchase rates, most valuable customers, and top-performing brands.  
+
+The goal of this project is to provide **data-driven insights** for understanding customer retention, spending habits, and brand profitability.  
+
+---
+
+## 🔑 Key Insights
+- **80K Active Customers** with **30K Returning Customers**  
+- **Repeat Purchase Rate:** 37.36%  
+- **Top 10 Most Valuable Customers** identified by spending  
+- **Top Customers (ARPC - Average Revenue per Customer)**  
+- **Top Selling Brands** by total orders  
+- **Top Profit Margin Brands**  
+
+---
+
+## 📷 Dashboard Screenshots
+
+### 1. KPI Overview + Top 10 Valuable Customers  
+![Dashboard Screenshot 1](https://github.com/user-attachments/assets/1fba6248-42fa-419a-92d9-4be83dfc9b04)
+
+### 2. Top Customers (ARPC) & Top Selling Brands  
+![Dashboard Screenshot 2](https://github.com/user-attachments/assets/052b0343-5291-4737-ae89-b42fe376bb90)
+
+### 3. Top Profit Margin Brands  
+![Dashboard Screenshot 3](https://github.com/user-attachments/assets/ea98fe34-db3a-4db4-a154-6b572e188dbe)
+
+---
+
+## 🚀 How to Use
+1. Download the `.pbix` file from this repository.  
+2. Open it in **Power BI Desktop**.  
+3. Explore the interactive dashboard with filters and visuals.  
+
+---
+
+## 🛠 Tools & Technologies
+- **Power BI Desktop**  
+- **Data Cleaning & Transformation (Power Query)**  
+- **Data Visualization & DAX Measures**  
+
+---
+
+## 📌 About the Author
+Created by *Aditya Chauhan* – Passionate about **Data Analytics** and turning raw data into actionable insights.  
+
+If you like this project, ⭐ the repo and connect with me!  
