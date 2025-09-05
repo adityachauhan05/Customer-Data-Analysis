@@ -256,7 +256,7 @@ The goal of this project is to provide **data-driven insights** for understandin
 ## 📷 Dashboard Screenshots
 
 ### 1. KPI Overview + Top 10 Valuable Customers  
-![Dashboard Screenshot 1](https://github.com/user-attachments/assets/1fba6248-42fa-419a-92d9-4be83dfc9b04)
+![Dashboard Screenshot 1](https://github.com/user-attachments/assets/367d869a-31d8-4c60-bd9a-72e949ce1fae)
 
 ### 2. Top Customers (ARPC) & Top Selling Brands  
 ![Dashboard Screenshot 2](https://github.com/user-attachments/assets/052b0343-5291-4737-ae89-b42fe376bb90)
